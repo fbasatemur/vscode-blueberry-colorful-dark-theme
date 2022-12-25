@@ -1,5 +1,5 @@
 {
-	"name": "Blueberry colorful dark theme: default",
+	"name": "Blueberry colorful dark theme: less",
 	"type": "dark",
 	"colors": {
 		"focusBorder": "#ffffff00",
@@ -103,7 +103,7 @@
 		"terminal.ansiBrightMagenta": "#c792ea",
 		"terminal.ansiBrightCyan": "#89ddff",
 		"terminal.ansiBrightWhite": "#ffffff",
-		"gitlens.trailingLineForegroundColor": "#506477"
+		"gitlens.trailingLineForegroundColor": "#7f848e"
 	},
 	"tokenColors": [
 		{
@@ -119,7 +119,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#506477"
+				"foreground": "#7f848e"
 			}
 		},
 		{
@@ -206,7 +206,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#7390aa"
+				"foreground": "#5cb3ff"
 			}
 		},
 		{
@@ -274,7 +274,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#27E8A7"
+				"foreground": "#add7ff"
 			}
 		},
 		{
@@ -305,7 +305,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#e4f0fb"
+				"foreground": "#56b6c2"
 			}
 		},
 		{
@@ -426,7 +426,7 @@
 				"markup.deleted"
 			],
 			"settings": {
-				"foreground": "#506477"
+				"foreground": "#7f848e"
 			}
 		},
 		{
@@ -723,7 +723,7 @@
 				"markup.raw.block.fenced.markdown"
 			],
 			"settings": {
-				"foreground": "#50647750"
+				"foreground": "#7f848e50"
 			}
 		},
 		{
@@ -732,7 +732,7 @@
 				"punctuation.definition.fenced.markdown"
 			],
 			"settings": {
-				"foreground": "#50647750"
+				"foreground": "#7f848e50"
 			}
 		},
 		{
@@ -824,7 +824,7 @@
 				"meta.diff.header.from-file"
 			],
 			"settings": {
-				"foreground": "#506477"
+				"foreground": "#7f848e"
 			}
 		},
 		{

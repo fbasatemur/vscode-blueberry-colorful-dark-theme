@@ -1,5 +1,5 @@
 {
-	"name": "Blueberry colorful dark theme: default",
+	"name": "Blueberry colorful dark theme: more",
 	"type": "dark",
 	"colors": {
 		"focusBorder": "#ffffff00",
@@ -119,7 +119,8 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#506477"
+				// "foreground": "#506477"
+				"foreground": "#7f848e"
 			}
 		},
 		{
@@ -176,7 +177,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#32AE85"
+				"foreground": "#56b6c2"
 			}
 		},
 		{
@@ -206,7 +207,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#7390aa"
+				"foreground": "#6fbcfcf6"
 			}
 		},
 		{
@@ -230,7 +231,13 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#e4f0fb"
+				// "foreground": "#e4f0fb"
+				// "foreground": "#e06c75"
+				// "foreground": "#d19a66"
+				"foreground": "#e6c07b"
+				// "foreground": "#98c379" // green
+				// "foreground": "#56b6c2"
+				// "foreground": "#c678dd" // purple
 			}
 		},
 		{
@@ -274,7 +281,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#27E8A7"
+				"foreground": "#add7ff"
 			}
 		},
 		{
@@ -305,7 +312,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#e4f0fb"
+				"foreground": "#6fbcfcf6"
 			}
 		},
 		{
@@ -314,7 +321,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#91b4d5"
+				"foreground": "#4ea8f1"
 			}
 		},
 		{

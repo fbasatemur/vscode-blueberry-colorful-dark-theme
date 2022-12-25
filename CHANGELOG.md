@@ -1,15 +1,9 @@
 # Change Log
 
-## v1.1.1
-- Update panel border color
+All notable changes to the "blueberry-colorful-dark-theme" extension will be documented in this file.
 
-## v1.1.0
-- Improve MarkDown file syntax highlighting
+Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## v1.0.0
-- Edit sidebar, status bar and tab bar color
-- Edit title bar color (in osx)
-- Edit string color
+## [Unreleased]
 
-## V0.1.0
 - Initial release
